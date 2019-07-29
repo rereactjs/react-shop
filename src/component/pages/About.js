@@ -12,7 +12,7 @@ function About() {
         <hr className="my-4" />
         <p>
           It uses utility classes for typography and spacing to space content
-          out within the larger container. TEst
+          out within the larger container.
         </p>
         <button className="btn btn-primary btn-lg">Learn more</button>
       </div>
