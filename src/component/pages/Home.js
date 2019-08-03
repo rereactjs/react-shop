@@ -7,7 +7,7 @@ function Home() {
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="http://placehold.it/350x200"
+              src="https://placehold.it/350x200"
               className="card-img-top"
               alt="..."
             />
@@ -26,7 +26,7 @@ function Home() {
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="http://placehold.it/350x200"
+              src="https://placehold.it/350x200"
               className="card-img-top"
               alt="..."
             />
@@ -45,7 +45,7 @@ function Home() {
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="http://placehold.it/350x200"
+              src="https://placehold.it/350x200"
               className="card-img-top"
               alt="..."
             />
@@ -64,7 +64,7 @@ function Home() {
         <div className="col-md-4 mb-4">
           <div className="card">
             <img
-              src="http://placehold.it/350x200"
+              src="https://placehold.it/350x200"
               className="card-img-top"
               alt="..."
             />
