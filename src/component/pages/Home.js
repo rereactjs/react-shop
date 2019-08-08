@@ -18,7 +18,7 @@ function Home() {
                 the bulk of the card's content.
               </p>
               <Link to="/" className="btn btn-primary">
-                Go somewhere
+                Go somewhere TEsst
               </Link>
             </div>
           </div>
